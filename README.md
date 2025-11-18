@@ -167,9 +167,11 @@ Both evaluations performed on **unseen test set**.
 
 ## Logistic Regression (Best Model)
 
-**Accuracy:** 0.99
-**F1-Score:** 0.98
-**ROC-AUC:** **0.9985**
+| Metric | Score |
+|--------|--------|
+Accuracy| 0.99
+F1-Score| 0.98
+ROC-AUC| 0.9985
 
 Confusion Matrix:
 
@@ -184,9 +186,11 @@ LR almost perfectly identifies both classes.
 
 ## Multinomial Naive Bayes
 
-**Accuracy:** 0.92
-**F1-Score:** 0.86
-**ROC-AUC:** **0.9795**
+| Metric | Score |
+|--------|--------|
+Accuracy| 0.92
+F1-Score| 0.86
+ROC-AUC| 0.9795
 
 Confusion Matrix:
 
