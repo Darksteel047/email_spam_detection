@@ -222,6 +222,18 @@ This project demonstrates a complete, production-quality spam classification wor
 
 ---
 
+# Tech Stack
+
+|Category|Tools|
+|---|---|
+Language|	Python 3
+Libraries|	pandas, numpy, matplotlib, seaborn
+Environment|	Jupyter Notebook / VS Code
+Version Control|	Git & GitHub
+Dataset Hosting|	Kaggle Datasets
+
+---
+
 # License
 
 MIT License — you’re free to use and adapt this project with proper credit.
