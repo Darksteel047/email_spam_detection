@@ -21,7 +21,7 @@ The goal is to develop a strong, explainable spam classifier and compare model p
 
 # Dataset
 
-**Source:** Kaggle — *Spam Mails Dataset, Link:https://www.kaggle.com/datasets/venky73/spam-mails-dataset*
+**Source:** Kaggle — *Spam Mails Dataset(Preprocessed Enron Email Dataset sample), Link:https://www.kaggle.com/datasets/venky73/spam-mails-dataset*
 
 After cleaning:
 
